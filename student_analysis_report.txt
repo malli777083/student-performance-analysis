@@ -1,0 +1,22 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+====================================
+Sample data is used for this project demonstration.
+
+Average marks by subject:
+- Math: 71.9
+- Science: 74.9
+- English: 73.6
+
+Top student by average: Divya (91.7)
+Support threshold: average below 60
+Students needing support: Charan, Farah
+
+Student-wise results:
+- Asha: average 84.3 - On track
+- Bala: average 66.0 - On track
+- Charan: average 53.3 - Needs support
+- Divya: average 91.7 - On track
+- Ezhil: average 72.0 - On track
+- Farah: average 54.0 - Needs support
+- Gokul: average 77.0 - On track
+- Hema: average 89.3 - On track
